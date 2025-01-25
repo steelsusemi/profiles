@@ -23,14 +23,14 @@ export default function Home() {
             <div className="flex-1">
               <div className="mb-4">
                 <h2 className="text-xl font-bold mb-1 text-white bg-gradient-to-r from-blue-500 to-purple-500 inline-block px-3 py-1 rounded">I AM</h2>
-                <p className="text-gray-300 mt-2">이름: 이프로</p>
-                <p className="text-gray-300">프리랜서 PM 서비스 기획 / FE Developer(jr)</p>
+                <p className="text-gray-300 mt-2">이름: 조프로</p>
+                <p className="text-gray-300">프리랜서 개발자 / FE Developer(jr)</p>
               </div>
               
               <div className="mb-4">
                 <h3 className="font-bold mb-2 text-white">Contact</h3>
-                <p className="text-gray-300">Email: leepro@naver.com</p>
-                <p className="text-gray-300">Phone: +082-1234-5678</p>
+                <p className="text-gray-300">Email: whwncjs95@gmail.com</p>
+                <p className="text-gray-300">Phone: (+082)010-4545-9806</p>
               </div>
               
               <div>
