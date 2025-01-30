@@ -50,7 +50,7 @@ export default function Home() {
           <div className="border border-gray-700 rounded-lg p-4">
             <p className="text-gray-300">안녕하세요 저는 조프로 입니다.</p>
             <p className="text-gray-300">저는 프리랜서 개발자이며, 현재 프론트엔드 개발자로 일하고 있습니다.</p>
-            <p className="text-gray-300">저는 프론트엔드 개발자로 일하고 있습니다.</p>
+            {/* <p className="text-gray-300">저는 프론트엔드 개발자로 일하고 있습니다.</p> */}
           </div>
         </div>
 
